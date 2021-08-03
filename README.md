@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pankul Rathi
-- 👀 I’m interested Full StackWeb Development. 
+- 👀 I’m interested Full Stack Web Development. 
 - 🌱 I’m currently learning Django / React full stack.
 - 💞️ I’m looking to for Work in domain of web development
 - 📫 How to reach me https://www.linkedin.com/in/pankul-rathi-a12570128/ 
