@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Pankul Rathi**
-- 👀 I’m working for **Byju's(Thinks and Learn pvt. limited)** in Full Stack Web Development. 
-- 🌱 I’m currently working on **MERN full stack**
-- 💞️ Evolving in domain of  **web development**
+- 🌱 I’m currently working on **MERN full stack** and **python**
+- 💞️ Evolving in domain of  **web development** and **AI-ML**
 - 📫 How to reach me https://www.linkedin.com/in/pankulrathi
 
 
